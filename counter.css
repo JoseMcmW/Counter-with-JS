@@ -107,17 +107,9 @@ body {
              color: #FFF;
          }
 
-         .leftBox {
-            margin-top: 30px;
-         }
-
-         .buttons {
-            margin-top: 100px;             
-         }
-
          .title {
             color: #BF0AA1;
-            font-size: 2.8em;
+            font-size: 2em;
             text-shadow: 2px 2px rgb(201, 199, 199);
             font-family: 'Permanent Marker', cursive;
         }
@@ -139,8 +131,8 @@ body {
             background-image: url(./img/background.jpg);
             color: #FFF;
         }
+
         .counterBox {
-            padding: 150px;
             display: flex;
             align-items: center;
             justify-content: space-around;
@@ -148,28 +140,14 @@ body {
 
         .title {
             color: #BF0AA1;
-            font-size: 3.5em;
+            font-size: 2em;
             text-shadow: 2px 2px rgb(201, 199, 199);
             font-family: 'Permanent Marker', cursive;
         }
 
-        .button1 {
-            padding: 60px;
-            font-size: 30px;
-        }
-
-        .button2 {
-            padding: 60px;
-            font-size: 30px;
-        }
-        .button3 {
-            padding: 60px;
-            font-size: 30px;
-        }
-        
         .counterNumber {
             color: #D91136;
-            font-size: 10em;
+            font-size: 7em;
             border-radius: 100% 20%;
             padding: 20px;
             box-shadow: inset 0 -3em 3em rgba(0,0,0,0.1),
@@ -178,5 +156,18 @@ body {
             font-family: 'Permanent Marker', cursive;
         }
 
+        .button1 {
+            padding: 30px;
+            font-size: 20px;
+        }
 
+        .button2 {
+            padding: 30px;
+            font-size: 20px;
+        }
+        .button3 {
+            padding: 30px;
+            font-size: 20px;
+        }
     }
+
